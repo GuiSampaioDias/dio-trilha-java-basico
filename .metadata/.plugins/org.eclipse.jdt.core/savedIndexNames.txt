@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\gusdias\OneDrive - rd.com.br\Documentos\estudos\java\DIO\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+818609167.index
+1128868387.index
